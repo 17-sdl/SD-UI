@@ -2,7 +2,7 @@
   "name": "SD-UI",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 8000",
     "build": "vite build"
   },
   "dependencies": {
