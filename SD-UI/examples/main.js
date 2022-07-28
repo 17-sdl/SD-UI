@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import './index.css'
-import { SD } from '../examples'
+import SD  from './packages/index'
 
 
 
